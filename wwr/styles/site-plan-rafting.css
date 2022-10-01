@@ -35,7 +35,10 @@ p{
   font-family: sans-serif;
 }
 /*  Look around below...but DON'T CHANGE ANYTHING! */
-
+a {
+  color: white;
+  margin: 40px;
+}
 body {
   max-width: 960px;
   margin: 0 auto;
