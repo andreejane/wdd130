@@ -27,8 +27,8 @@ Fonts are separated by a & */
   --nav-hover-background-color: #396E94;
 }
 
-h1{
-  font-family: Perminent Marker;
+h1 {
+  font-family: Georgia, 'Times New Roman', Times, serif
 }
 
 p{
