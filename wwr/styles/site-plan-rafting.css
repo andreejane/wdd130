@@ -75,7 +75,7 @@ p {
   text-align: center;
 }
 .colors th {
-  background-color: #999;
+  background-color: rgb(211, 211, 211);
 }
 .colors td{
   width: 25%;
@@ -108,7 +108,7 @@ nav  {
   display: flex;
 }
 nav a {
-  padding:1em;
+  padding:10px;
   min-width: 120px;
   text-decoration: none;
   padding: 10px;
