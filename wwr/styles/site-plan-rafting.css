@@ -27,7 +27,13 @@ Fonts are separated by a & */
   --nav-hover-background-color: #396E94;
 }
 
+h1{
+  font-family: Perminent Marker;
+}
 
+p{
+  font-family: sans-serif;
+}
 /*  Look around below...but DON'T CHANGE ANYTHING! */
 
 body {
