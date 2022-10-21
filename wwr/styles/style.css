@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&family=Poppins&display=swap');
+
+--primary-color: #03045E  ;
+--secondary-color: #0077B6 ;
+--accent1-color: #00B4D8;
+--accent2-color: #90E0EF;
+
+
+#background {
+    height: 725px;
+}
+body{
+    background-color:#90E0EF;
+}
+header{
+    background-color: #03045E;
+}
+nav a:hover{
+    background-color:#00B4D8;
+}
+.book, .join{
+    background-color:#0077B6;
+}
+.book:hover, .join:hover{
+    background-color:#0077B6;
+}
+#background{
+    background-color:#03045E;
+}
+.msg{
+    background-color:#00B4D8;
+}
+footer{
+    background-color:#00B4D8;
+    color: #90E0EF;
+}
+footer a{
+    background-color: #00B4D8;
+    color: #0077B6;
+}
+footer a:hover{
+    background-color: #03045E;
+    color: #00B4D8;
+}
+nav a{
+    color: #00B4D8;
+}
+nav a:hover{
+    color: black;
+}
+
+.book, .join{
+    background-color: #00B4D8;
+    color: #03045E;
+}
+
+.home-title{
+    color:#03045E ;
+}
+h4{
+    color: #0077B6;
+}
+
+.book:hover, .join:hover{
+    background-color: #03045E;
+    color: #0077B6;
+}
+.msg h2{
+    background-color: red;
+    color: red;
+}
+.msg p{
+    background-color: red;
+    color: black;
+}
+
+.icon {
+    width: 80px;
+}
