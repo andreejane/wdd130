@@ -136,3 +136,25 @@ h4{
     margin: 200px 0;
     border: 10px solid white;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.grid {
+    display:grid;
+    grid-template-columns: 1fr 2fr 1fr;
+    grid-auto-rows: minmax(90px, auto);
+    grid-gap:20px
+}
